@@ -1,0 +1,13 @@
+E:\VB PROJECTS\LoginProject\bin\Debug\LoginProject.exe.config
+E:\VB PROJECTS\LoginProject\bin\Debug\LoginProject.exe
+E:\VB PROJECTS\LoginProject\bin\Debug\LoginProject.pdb
+E:\VB PROJECTS\LoginProject\bin\Debug\LoginProject.xml
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.vbprojAssemblyReference.cache
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.LoginForm.resources
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.Resources.resources
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.vbproj.GenerateResource.cache
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.vbproj.CoreCompileInputs.cache
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.exe
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.xml
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.pdb
+E:\VB PROJECTS\LoginProject\obj\Debug\LoginProject.SignUpForm.resources
